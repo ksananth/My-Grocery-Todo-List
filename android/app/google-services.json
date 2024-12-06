@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787137274569",
+    "project_id": "grocery-todo-list",
+    "storage_bucket": "grocery-todo-list.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787137274569:android:86429a8e3090ebbc14a318",
+        "android_client_info": {
+          "package_name": "com.kraftanapp.grocerylist.mygrocerylist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTvl7y8YHIhSgx-2pGJjsw0tX4Zw1U1-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
